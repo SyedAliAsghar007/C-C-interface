@@ -1,0 +1,29 @@
+body{
+	background-color: #D5D8DC;
+	
+}
+
+table{
+	width: 700px;
+	height: 800px;
+	
+}
+
+#abc{
+	width: 200px;
+	background-color: #283747;
+	padding: 20px;
+	color: white;
+}
+
+#def{
+	width: 500px;
+	background-color: #FAD7A0;
+
+}
+p{
+	font-family: Cambria;
+}
+h2{
+	background-color: #4D4C49;
+}
